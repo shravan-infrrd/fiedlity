@@ -1,0 +1,65 @@
+                                                                                                                        INVESTMENT REPORT
+                                                                                                                 April 24, 2019 - April 25, 2019
+
+
+
+
+                                                                                                                      Account # X01-000108
+ Holdings                                                                                                    ROSWELL WHITNEY - INDIVIDUAL
+
+
+ Bonds    (continued)
+                                             Beginning                          Price   End. Market Value
+                                           Market Value      Quantity        Per Unit    Accrued Int. (AI)                     Est. Annual   Coupon
+ Description                    Maturity   Apr 24, 2019   Apr 25, 2019   Apr 25, 2019        Apr 25, 2019                    Income (EAI)      Rate
+ Municipal Bonds (continued)
+  SAN ANTONIO TEX ELEC      02/01/18      unavailable   -2,000.000                 -           unavailable                               -   5.000
+  &GAS REV REF BDS                                                                                       -
+   FIXED COUPON MOODYS WR SEMIANNUALLY CUSIP: 7962533K6
+  CRYSTAL LAKE ILL PK DIST  12/15/19        4,996.58     4,990.000          100.1360             4,996.78                           99.80    2.000
+  GO PK BDS ALT                                                                                     37.70
+   FIXED COUPON S&P AA SEMIANNUALLY CUSIP: 229289KD4
+M CRYSTAL LAKE ILL PK DIST  12/15/19           10.01        10.000          100.1360                10.01                            0.20    2.000
+  GO PK BDS ALT                                                                                      0.08
+   FIXED COUPON S&P AA SEMIANNUALLY CUSIP: 229289KD4
+  JACKSONVILLE FLA SALES    10/01/20       31,360.80    30,000.000          104.5150            31,354.50                        1,500.00    5.000
+  TAX REV SALES                                                                                    125.00
+   FIXED COUPON MOODYS A2 S&P A+ SEMIANNUALLY CUSIP: 469485JL1
+ Total Municipal Bonds (0% of                $36,367.39                                        $36,361.29                       $1,600.00
+ account holdings)
+
+ US Treasury/Agency Securities
+
+
+
+
+                                                                                                                                                       P
+M UNITED STATES TREAS      06/26/14       unavailable      20,000.000              -           unavailable                               -         -
+  BILLS                                                                                                  -
+  FIXED COUPON AT MATURITY CUSIP: 912796BP3
+
+
+
+
+                                                                                                                                                       MR_CE _BJKKTFBBBBBBF_BBBBB 20190425
+S UNITED STATES TREAS NTS  01/15/16       unavailable      -45,000.000             -           unavailable                               -   2.000
+                                                                                                         -
+  INFL. FACTOR = 0.00000 FIXED COUPON MOODYS WR SEMIANNUALLY CUSIP: 912828ET3
+S UNITED STATES TREAS BDS      11/15/16   unavailable   -39,000.000                -           unavailable                               -   7.500
+                                                                                                         -
+  FIXED COUPON MOODYS WR SEMIANNUALLY CUSIP: 912810DX3
+M TENNESSEE VALLEY AUTH   12/15/16     unavailable       1,000.000                 -           unavailable                               -   4.875
+  BOND                                                                                                   -
+  FIXED COUPON MOODYS WR S&P AA+ SEMIANNUALLY CUSIP: 880591DS8
+S UNITED STATES TREAS NTS 01/15/17     unavailable     -60,000.000                 -           unavailable                               -   2.375
+                                                                                                         -
+  INFL. FACTOR = 0.00000 FIXED COUPON MOODYS WR SEMIANNUALLY CUSIP: 912828GD6
+M UNITED STATES TREAS NTS      02/15/17   unavailable    1,000.000                 -           unavailable                               -   4.625
+                                                                                                         -
+  FIXED COUPON MOODYS WR SEMIANNUALLY CUSIP: 912828GH7
+
+
+
+
+                                                                                                                                               20 of 28
+

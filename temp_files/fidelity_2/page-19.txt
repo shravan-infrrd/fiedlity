@@ -1,0 +1,65 @@
+                                                                                                                                     INVESTMENT REPORT
+                                                                                                                              April 24, 2019 - April 25, 2019
+
+
+
+
+                                                                                                                               Account # X01-000108
+ Holdings                                                                                                             ROSWELL WHITNEY - INDIVIDUAL
+
+
+ Bonds    (continued)
+                                             Beginning                          Price   End. Market Value
+                                           Market Value      Quantity        Per Unit    Accrued Int. (AI)                                  Est. Annual   Coupon
+ Description                    Maturity   Apr 24, 2019   Apr 25, 2019   Apr 25, 2019        Apr 25, 2019                                 Income (EAI)      Rate
+ Corporate Bonds (continued)
+S GENERAL MTRS ACCEP       08/15/16      unavailable       -98,000.000             -           unavailable                                            -   6.750
+  CORP                                                                                                   -
+  STEP COUPON S&P BB SEMIANNUALLY CUSIP: 3704A0PZ9
+S ANHEUSER BUSCH COS INC   10/15/16      unavailable       -85,000.000             -           unavailable                                            -   5.050
+                                                                                                         -
+  FIXED COUPON MOODYS WR SEMIANNUALLY CUSIP: 035229CV3
+M ALSTOM SA NOTE REG S    03/18/20      1,166.59            1,000.000       115.9650             1,159.65                                             -   4.500
+                                                                                                        -
+  FIXED COUPON MOODYS Baa2 ANNUALLY CUSIP: F0259MAT0
+  BOMBARDIER INC BOND     05/15/21        unavailable  -4,698,977.000            -        unavailable                                                 -   6.125
+  REG S                                                                                             -
+  FIXED COUPON MOODYS CAA1 S&P B- SEMIANNUALLY MAKE WHOLE CALL CUSIP: C10602AQ0
+M FLORIDA POWER CORP      08/15/21            150.93          150.000     100.6340            150.95                                              4.64    3.100
+  BOND CALL MAKE WHOLE                                                                          0.98
+  FIXED COUPON MOODYS A1 S&P A SEMIANNUALLY NEXT CALL DATE 05/15/2021 CONT CALL 05/15/2021 MAKE WHOLE CALL CUSIP: 341099CP2
+S LEHMAN BROS HLDGS INC   11/18/28        unavailable      -5,000.000            -        unavailable                                                 -   6.000
+
+
+
+
+                                                                                                                                                                   P
+  LEHMAN MTN                                                                                        -
+  FIXED COUPON MONTHLY NEXT CALL DATE 05/18/2019 IN MONETARY DEFAULT CUSIP: 52519FCB5
+  CORNERSTONE             06/01/30         19,739.00       20,000.000     100.1580         20,031.60                                          1,400.00    7.000
+  CHARITABLE FNDTN                                                                            583.33
+
+
+
+
+                                                                                                                                                                   MR_CE _BJKKTFBBBBBBF_BBBBB 20190425
+  FIXED COUPON SEMIANNUALLY CUSIP: 21925LAA9
+S ANHEUSER BUSCH COS INC  01/15/33       -398,130.37     -351,550.000     114.6370       -403,006.37                                        -20,917.22    5.950
+  NOTE                                                                                     -6,158.96
+  FIXED COUPON MOODYS Baa1 S&P A- SEMIANNUALLY MAKE WHOLE CALL CUSIP: 035229CQ4
+  BOMBARDIER INC BOND     05/15/21        unavailable   4,699,980.000            -        unavailable                                                 -   6.125
+  REG S F                                                                                           -
+  FIXED COUPON MOODYS CAA1 S&P B- SEMIANNUALLY MAKE WHOLE CALL CUSIP: C10602AQ0
+ Total Corporate Bonds (0% of              -$377,073.85                                      -$381,664.17                                  -$19,512.58
+ account holdings)
+
+ Municipal Bonds
+ NEW JERSEY ST TPK AUTH   01/01/16     unavailable    5,000.000              -         unavailable                                                    -   6.500%
+ TPK REV                                                                                         -
+ FIXED COUPON SEC MKT MBIA INSURED MOODYS WR SEMIANNUALLY SUBJ TO SINKING FUND CUSIP: 6461392L8
+
+
+
+
+                                                                                                                                                            19 of 28
+

@@ -1,0 +1,59 @@
+                                                                                                                                    INVESTMENT REPORT
+                                                                                                                             April 24, 2019 - April 25, 2019
+
+
+
+
+                                                                                                                                  Account # X01-000108
+Activity                                                                                                                 ROSWELL WHITNEY - INDIVIDUAL
+
+
+Other Activity In
+Settlement                                         Symbol/                                                                  Transaction
+Date      Security Name                            CUSIP       Description                      Quantity         Price            Cost              Amount
+04/25     INTERNATIONAL BUS MACH CORP COM          459200101   Return Of Capital                       -             -                -          $416,157.00
+          USD0.20
+Total Other Activity In                                                                                                               -          $416,157.00
+
+
+Fees and Charges
+Date          Description                                                 Amount      Date       Description                                       Amount
+04/24         International Bus Mach Corp Com                            -$7,728.63   Total Fees and Charges                                      -$7,728.63
+
+
+Transfers Between Fidelity Accounts
+Settlement                                         Symbol/                                                                  Transaction
+Date      Security Name                            CUSIP       Description                      Quantity         Price            Cost              Amount
+04/24     BOMBARDIER INC BOND REG S                C10602AQ0   Transferred From                   3.000              -                -                  -
+          6.12500% 05/15/2021 CALL MAKE WHOLE
+          ISIN #XS0552915943 SEDOL #B5BSQ98
+
+
+
+
+                                                                                                                                                               P
+          INTL CONVERSION RQST X01-000027-1
+04/24     BANCO BILBAO VIZCAYA ARGENTARIA          E1R77EAA9   Transferred To                      -6.000            -                -                    -
+          SA BOND
+          7.00000% REG S PERPETUAL ISIN
+
+
+
+
+                                                                                                                                                               MR_CE _BJKKTFBBBBBBF_BBBBB 20190425
+          #XS1033661866 SEDOL #BJVNTZ8 INTL
+          CONVERSION RQST X01-000027-2
+04/24     ALANTRA PARTNERS SA EUR3                 E3666D105   Transferred To                      -2.000      16.5797                -                    -
+          ISIN #ES0126501131 SEDOL #5377884 INTL
+          CONVERSION RQST X01-000086-1 VALUE
+          OF TRANSACTION $33.16
+Total Transfers Between Fidelity Accounts                                                                                                                  -
+
+
++       Prospectus sent under separate cover.
+
+
+
+
+                                                                                                                                                          25 of 28
+

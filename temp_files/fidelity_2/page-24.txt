@@ -1,0 +1,58 @@
+                                                                                                                   INVESTMENT REPORT
+                                                                                                            April 24, 2019 - April 25, 2019
+
+
+
+
+                                                                                                                 Account # X01-000108
+Activity                                                                                                ROSWELL WHITNEY - INDIVIDUAL
+
+
+Securities Bought & Sold
+Settlement                                     Symbol/                                                     Transaction
+Date       Security Name                       CUSIP       Description           Quantity       Price            Cost              Amount
+04/03      FIDELITY SELECT BIOTECHNOLOGY +     316390772   You Bought              0.509    $21.62000                -              -$11.00
+           UNSOLICITED ORDER
+04/03      FIDELITY SELECT BIOTECHNOLOGY       316390772   You Sold                -0.509    21.62000                -                11.00
+           UNSOLICITED ORDER
+04/03      FIDELITY SELECT BIOTECHNOLOGY       316390772   Cancelled Buy           -0.463    21.62000                -                10.00
+           UNSOLICITED ORDER CANCELLED
+           TRADE
+Total Securities Bought                                                                                              -               -$1.00
+Total Securities Sold                                                                                                -               $11.00
+Net Securities Bought & Sold                                                                                         -               $10.00
+
+
+Dividends, Interest & Other Income
+(Includes dividend reinvestment)
+
+Settlement                                     Symbol/
+Date       Security Name                       CUSIP       Description           Quantity       Price                              Amount
+
+
+
+
+                                                                                                                                              P
+04/24      INTERNATIONAL BUS MACH CORP COM     459200101   Dividend Received            -           -                            $21,164.56
+           USD0.20
+04/24      INTERNATIONAL BUS MACH CORP COM     459200101   Long-Term Cap Gain           -           -                             46,371.78
+           USD0.20
+
+
+
+
+                                                                                                                                              MR_CE _BJKKTFBBBBBBF_BBBBB 20190425
+04/24      INTERNATIONAL BUS MACH CORP COM     459200101   Short-Term Cap Gain          -           -                             19,024.32
+           USD0.20
+04/25      CWALT INC 2007-16CB SER 2007-16CB   02152AAP4   Interest                     -           -                                  2.09
+           CL 3-A-1 6.75000% 08/25/2037 BOND
+04/25      CWALT INC 2007-16CB SER 2007-16CB   02152AAP4   Interest                     -           -                                  2.09
+           CL 3-A-1 6.75000% 08/25/2037 BOND
+04/25      ISHARES TRUST GLOBAL REIT ETF       46434V647   Short-Term Cap Gain          -           -                                 94.69
+Total Dividends, Interest & Other Income                                                                                         $86,659.53
+
+
+
+
+                                                                                                                                         24 of 28
+

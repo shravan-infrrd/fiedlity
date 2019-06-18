@@ -1,0 +1,66 @@
+                                                                                                                             INVESTMENT REPORT
+                                                                                                                      April 24, 2019 - April 25, 2019
+
+
+
+
+                                                                                                                           Account # X01-000108
+ Holdings                                                                                                         ROSWELL WHITNEY - INDIVIDUAL
+
+
+ Bonds    (continued)
+                                              Beginning                            Price    End. Market Value
+                                            Market Value       Quantity         Per Unit     Accrued Int. (AI)                      Est. Annual      Coupon
+ Description                     Maturity   Apr 24, 2019    Apr 25, 2019    Apr 25, 2019         Apr 25, 2019                     Income (EAI)         Rate
+ US Treasury/Agency Securities (continued)
+S FEDERAL HOME LN MTG        05/15/18     unavailable    -5,000.000                   -            unavailable                                -       6.000
+  CORP                                                                                                       -
+   STEP COUPON SEMIANNUALLY CUSIP: 3133F0Q93
+S U S TREAS SEC STRIPPED     02/15/20     -60,813.32    -62,000.000             98.1350            -60,843.70                                 -               -
+  INT PMT                                                                                                   -
+   ZERO COUPON CUSIP: 912833KY5
+S FEDERAL FARM CR BKS        01/05/22      -5,392.00     -5,002.000            107.8690              -5,395.60                         -272.10        5.440
+  BOND                                                                                                  -87.68
+   FIXED COUPON MOODYS Aaa S&P AA+ SEMIANNUALLY CUSIP: 31331XNK4
+S UNITED STATES TREAS BDS    11/15/22     -35,342.70    -30,000.000            117.9770            -35,393.10                        -2,287.50        7.625
+                                                                                                    -1,055.28
+   FIXED COUPON MOODYS Aaa SEMIANNUALLY CUSIP: 912810EN4
+S U S TREAS SEC STRIPPED     05/15/26    -51,763.18      -62,000.000            83.8500            -51,987.00                                 -               -
+  INT PMT                                                                                                   -
+   ZERO COUPON CUSIP: 912833LZ1
+S UNITED STATES TREAS BDS    02/15/37     -6,404.70       -5,000.000           128.8830              -6,444.15                         -237.50        4.750
+
+
+
+
+                                                                                                                                                                  P
+                                                                                                        -49.21
+ FIXED COUPON MOODYS Aaa SEMIANNUALLY CUSIP: 912810PT9
+ Total US Treasury/Agency                   -$159,715.90                                         -$160,063.55                       -$2,797.10
+
+
+
+
+                                                                                                                                                                  MR_CE _BJKKTFBBBBBBF_BBBBB 20190425
+ Securities (0% of account
+ holdings)
+
+ Total Bonds (0% of account holdings)       -$500,092.79                                         -$505,036.16                      -$20,666.48
+
+
+ Loaned/Collateralized Securities
+                                               Beginning                            Price               Ending
+                                             Market Value       Quantity         Per Unit          Market Value                                   EAI ($) /
+ Description                                 Apr 24, 2019    Apr 25, 2019    Apr 25, 2019          Apr 25, 2019                                    EY (%)
+ AVALON CORRECTIONAL SVCS INC                       $0.01           2.000        $0.0096                  $0.01                                          -
+ COM NEW (CITY) F                                                                                                                                        -
+ FIDELITY PURITAN (FPURX) F                       $226.45          10.364         21.8700                226.66                                      3.23
+                                                                                                                                                    1.430
+ Total Loaned/Collateralized Securities           $226.46                                               $226.67                                     $3.23
+ (0% of account holdings)
+
+
+
+
+                                                                                                                                                         21 of 28
+

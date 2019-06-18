@@ -1,0 +1,14 @@
+field_of_studies = [ 'Finance-Technical', 'Accounting & Auditing', 'Accounting and Auditing', 'Administrativei Practice', 'Business Management & Organization', 'Communications', 'Computer Science', 'Economics', 'Ethics - Behavioral', 'Ethics - Regulatory', 'Finance', 'Marketing', 'Mathematics', 'Personal Development', 'Personnel/Human Resources', 'Production', 'Specialized Knowledge and Applications', 'Specialized Knowledge & Applications', 'Social Environment of Business', 'Statistics', 'Accounting - Governmental', 'Auditing - Governmental', 'Business Law', 'Management Advisory Services', 'Taxes', 'Communications and Marketing', 'Informational Technology - Technical', 'Information Technology', 'Computer Software & Applications', 'Business Management and Organization', 'SPECIALIZED KNOWLEDGE AND APPLICATIONS', 'Accounting (Governmental)', 'Auditing (Governmental)', 'Auditing (Govemmental)', 'Acounting (Governmental)']
+
+
+special_list = ['Auditing', 'Accounting', 'Specialized Knowledge', 'ACCOUNTING', 'AUDITING', 'BUSINESS MAN AGEMENT', 'MAS', 'TAXES', 'Business Management', 'Tax', 'Audit', 'Other']
+
+related_studies = ['Computer Software and Applications', 'Accounting & Auditing / Tax', 'Personnel/Human Resource', 'Personnel/HR', 'Regulatory Ethics', 'Professional Development', 'Behavioral Ethics', 'Management Services', 'A&A', 'Yellow Book', 'Professional Ethics', 'Fraud', 'Accounting Governmental', 'Auditing Governmental', 'Business Mgmt and Org', 'State Ethics', 'Cybersecurity Update', 'Taxation', 'Forensic Accounting', 'Forensic Accounting — Technical', 'Communications & Marketing', 'Management Advisory Services Basic Level', 'Ethics (Regulatory)', 'Computer Software & Applications — Non-Technical', 'Laws & Rules Ethics', 'Ethics/Regulatory Ethics', 'Taxes (in NY Taxation)', 'Governmental Accounting', 'Auditing - Webinar','Ethics', 'General Knowledge', 'Computer Sofiware & Applications']
+
+field_of_studies = field_of_studies + related_studies + special_list
+
+pre_keywords = [ 'field of study:', 'For the successful completion of', 'sponsored by YH Advisors, Inc.', 'FOR THE PROGRAM ENTITLED', 'Field of Study', 'for successfully completing', 'bicld of Study', 'Course', 'CPE Fueid of Study.', 'field of study', 'Field Of Study:', 'SUBJECT AREA', 'Flelds of Study']
+
+post_keywords = ['Ficld of Study', 'bicld of Study', 'bield of Study', 'Field of Study', 'Subject Area', 'Field ofStudy', 'NASBA Field of Study:', 'Curriculum:', 'Curriculum']
+
+line_keywords = ['Field of Study:', 'Best Practices in', 'FieldofStudy:', 'Course Field of Study:', 'for successfully completing', 'Fieldof Study:', 'Recommended Field of Study:', 'in the subject area of', 'RecommendedField of Study:', 'Field ofStudy:', 'Ficld of Study:', 'NASBAField of Study:', 'Course Freld of Study:', 'NASBAField of Study', 'NASBA Recognized Field of Study:', 'NASBAField of Study: ', 'Fleld of Study Associated with Credit:', 'Number of CPE Credits', 'd of Study:']
